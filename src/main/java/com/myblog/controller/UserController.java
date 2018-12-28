@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.myblog.entity.User;
 import com.myblog.service.UserService;
-//just try
+//just try alone
 @RestController
 @RequestMapping("/user")
 
